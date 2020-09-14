@@ -1,21 +1,53 @@
-# Express Note Taker 
 
-# [View Deployed Site](https://express-note-book.herokuapp.com/)
+# Unit 11 Note Taker Homework
 
-## Objective 
-The goal was to add an express server functionality to a prebuilt note taker app, connecting the front- and back-ends. 
+## Description 
+================================
 
-## Highlights
+Create a note taker application using express and our own server-side API.
 
-* Notes can be added on the front end and then get stored in a JSON file.
+## Table of contents
+================================
 
-* Each note is given a unique ID using the `uuid` package, so they can also be deleted or revisited. 
+* (#Description)
+* (#Installation)
+* (#Usage)
+* (#License)
+* (#Contributors)
+* (#Test)
 
-* Express routes are used for the API, but also to direct traffic to the correct URL. Any slug given that isn't `/notes` get redirected to the homepage. 
+## Installation
+=================================
 
-* Site is deployed to Heroku
+        undefined
+
+## Usage
+================================
+
+To create notes
 
 
-## Demo
+## Contributors
+================================
 
-![Note Taker Demo](./assets/note-taker-demo.gif)
+
+
+## Test
+================================
+
+undefined
+
+
+## Repository
+=================================
+
+- [Project Repo](https://github.com/arodrigu1)
+
+## GitHub
+==================================
+
+
+- null
+- [GitHub Profile](https://github.com/arodrigu1)
+
+
